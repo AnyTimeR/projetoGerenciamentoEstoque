@@ -11,6 +11,7 @@ Email: alexcastro.contato@protonmail.com <br>
 LinkedIn: linkedin.com/in/itsAnyTimeR
 
 
-## Linguagem de Programação e IDE
+## Linguagem de Programação, IDE e Aplicações
 - Java
 - Eclipse
+- 
