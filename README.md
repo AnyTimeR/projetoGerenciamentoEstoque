@@ -8,7 +8,7 @@ A idéia deste projeto é aperfeiçoar o código Java através da orientação a
 
 ## Por quê?
 Esse projeto é parte para estudos e portfólio pessoal. Estou aprendendo e sendo curioso cada vez mais, então é uma forma de destacar códigos que eu mesmo fiz ou modifiquei. <br><br>
-[ProtonMail](alexcastro.contato@protonmail.com) <br>
+[ProtonMail](mailto:alexcastro.contato@protonmail.com) <br>
 [LinkedIn](https://www.linkedin.com/in/itsanytimer/)
 
 ## Linguagem de Programação, IDE e Aplicações
