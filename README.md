@@ -12,5 +12,5 @@ LinkedIn: linkedin.com/in/itsAnyTimeR
 
 
 ## Linguagem de Programação e IDE
-* Java
-* Eclipse
+- Java
+- Eclipse
