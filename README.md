@@ -1,2 +1,10 @@
 # Projeto de Gerenciamento de Estoque
-Projeto de Gerenciamento e Controle de Estoque de Bebidas
+Gerenciamento e Controle de Estoque de Bebidas
+
+## Imagens
+
+## Sobre o projeto
+
+## Por quê?
+
+## Linguagem de Programação e IDE
